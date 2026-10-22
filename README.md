@@ -13,3 +13,6 @@
 | 1 | Made the repo on GitHub with a README | Initial commit | main |
 | 2 | Created my first page | Add first page | main |
 | 3 | Updated index.html | Peace and love happiness | main |
+| 4 | Added an About me section | Add about me section to index.html | main |
+| 5 | Added a list of things I like | Added things I like Section with an unordered list | main |
+| 6 | Added my goals | Added My Goals with Ordered List | main |
