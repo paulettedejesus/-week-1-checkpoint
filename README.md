@@ -17,3 +17,4 @@
 | 5 | Added a list of things I like | Added things I like Section with an unordered list | main |
 | 6 | Added my goals | Added My Goals with Ordered List | main |
 | 7 | Added an My Hobbies section | Added My Hobbies to index.html | main |
+  8 | Added an Sites I Like section | Added My Hobbies to index.html | main |
