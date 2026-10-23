@@ -26,3 +26,4 @@
 | 14 | Added a Url section | Added Crochet coach webpage to list of sites | main |
 | 15 | Added a Image section | Added image of Crochet tool yarn and blanket  | main |
 | 16 | Added a Image section | Added image to index.html | main |
+| 17 | Updated html |Updated html | main |
