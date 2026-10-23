@@ -1,5 +1,5 @@
 # Week 1 Checkpoint
-
+https://paulettedejesus.github.io/week-1-checkpoint/
 ## My setup
 - Operating system: Windows
 - Editor: Vscode
@@ -27,3 +27,4 @@
 | 15 | Added a Image section | Added image of Crochet tool yarn and blanket  | main |
 | 16 | Added a Image section | Added image to index.html | main |
 | 17 | Updated html |Updated html | main |
+| 17 | Updated ACP Log |Updated ACP Log | main |
