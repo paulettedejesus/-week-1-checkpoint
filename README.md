@@ -28,5 +28,5 @@ https://paulettedejesus.github.io/week-1-checkpoint/
 | 16 | Added a Image section | Added image of Crochet tool yarn and blanket  | main |
 | 17 | Added a Image section | Added image to index.html | main |
 | 18 | Added a Image section | Added image to index.html | main |
-| 19 | Updated html |Updated html | main |
+| 19 | Changed location of URl |Moved url for crochet website on index.html | main |
 | 20 | Updated ACP Log |Updated ACP Log | main |
